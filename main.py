@@ -5,8 +5,8 @@ import random
 from simple_ai import *
 
 AIO_FEED_IDs = ["button1", "button2"]
-AIO_USERNAME = "anh_iot2108"
-AIO_KEY = "aio_qmXK07Iekix6Obfy7AFuUsTsUgeT"
+AIO_USERNAME = "dlhcmut"
+AIO_KEY = "aio_MwOT5231ZAYKxQ4XL7dXkZt9s4Nd"
 
 def connected(client):
     print("Ket noi thanh cong ...")
